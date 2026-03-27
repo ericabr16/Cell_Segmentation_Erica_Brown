@@ -17,7 +17,7 @@ Solution: Applied a vertical flip (`np.flipud`) to the image data to ensure perf
 The model was evaluated using the Mean Intersection over Union (mIoU).
 * Ground Truth: Seeded Watershed (Nuclei + Actin)
 * Prediction: Cellpose `cyto3` model
-* Final Mean IoU: [INSERT YOUR SCORE HERE]
+* Final Mean IoU: 0.4728
 
 # Setup & Reproducibility
 1. Clone the repository.
